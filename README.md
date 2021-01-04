@@ -1,12 +1,11 @@
-### Namaste :pray:
+# Namaste :pray:
 
 
-#### This is Shankar Lamichhane,
-
- currently pursuing Bachelor's degree in Computer Science and Information Technology. I am passionate with creating, designing and building web architectures. I am an everyday learner who keeps being updated with changing technology world. I dream everyday and have that bold detemination to fulfill my dream. I bring perfection in every projects i deal with.
+## This is Shankar Lamichhane,
+currently pursuing Bachelor's degree in Computer Science and Information Technology. I am passionate with creating, designing and building web architectures. I am an everyday learner who keeps being updated with changing technology world. I dream everyday and have that bold detemination to fulfill my dream. I bring perfection in every projects i deal with.
 
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: :email: shankarlmc012(at)gmail(dot)com        :telephone_receiver: +977 9815153866
+- 📫 How to reach me: :email: shankarlmc012@gmail.com        :telephone_receiver: +977 9815153866
 - ⚡ Fun fact: 
 - :house_with_garden: Location: Pokhara, Nepal
 
