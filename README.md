@@ -8,8 +8,7 @@ Currently pursuing Bachelor's degree in Computer Science and Information Technol
 - 📫 How to reach me: 
 - :email: shankarlmc012@gmail.com        
 - :telephone_receiver: +977 9815153866
-- ⚡ Fun fact: 
-- :house_with_garden: Location: Pokhara, Nepal
+- 🏠 Location: Pokhara, Nepal
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shankarlmc&show_icons=true" alt="shankarlmc" /> 
