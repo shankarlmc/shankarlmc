@@ -10,9 +10,20 @@ Currently pursuing Bachelor's degree in Computer Science and Information Technol
 - :telephone_receiver: +977 9815153866
 - 🏠 Location: Pokhara, Nepal
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankarlmc&show_icons=true" alt="shankarlmc" /> 
-</p>
+
+
+<div class = "row">
+  <div class = "col-md-6" align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=shankarlmc&show_icons=true" alt="shankarlmc" /> 
+  </div>
+  <div class = "col-md-6" align="right">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shankarlmc&show_icons=true&locale=en&layout=compact" alt="shankarlmc" />
+  </div>
+  <div class = "col-md-6">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shankarlmc&" alt="shankarlmc" /></p>
+  </div>
+</div>
+
 
 ### Programming Languages 🌐
 <table>
@@ -43,14 +54,6 @@ Currently pursuing Bachelor's degree in Computer Science and Information Technol
   </tbody>
 </table>
 
-<div class = "row">
-  <div class = "col-md-6">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shankarlmc&show_icons=true&locale=en&layout=compact" alt="shankarlmc" />
-  </div>
-  <div class = "col-md-6">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shankarlmc&" alt="shankarlmc" /></p>
-  </div>
-</div>
 
 
 ### Social Medias and Other Accounts
