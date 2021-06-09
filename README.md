@@ -13,11 +13,8 @@ Currently pursuing Bachelor's degree in Computer Science and Information Technol
 
 
 <div class = "row">
-  <div class = "col-md-6" align="left">
+  <div class = "col-md-6" width="100%">
     <img src="https://github-readme-stats.vercel.app/api?username=shankarlmc&show_icons=true" alt="shankarlmc" /> 
-  </div>
-  <div class = "col-md-6" align="right">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shankarlmc&show_icons=true&locale=en&layout=compact" alt="shankarlmc" />
   </div>
   <div class = "col-md-6">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shankarlmc&" alt="shankarlmc" /></p>
@@ -50,7 +47,6 @@ Currently pursuing Bachelor's degree in Computer Science and Information Technol
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
-    
   </tbody>
 </table>
 
