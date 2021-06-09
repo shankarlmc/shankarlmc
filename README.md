@@ -1,14 +1,14 @@
-# Namaste :pray:
+<h1 align="center"> Hi 👋,  I'm Shankar Lamichhane</h1>
 
+<h3 align="center"> Currently pursuing Bachelor's degree in Computer Science and Information Technology. I am passionate with creating, designing and building web architectures. I am an everyday learner who keeps being updated with changing technology world. I dream everyday and have that bold detemination to fulfill my dream. I bring perfection in every projects i deal with.</h3><br>
 
-## This is Shankar Lamichhane,
-Currently pursuing Bachelor's degree in Computer Science and Information Technology. I am passionate with creating, designing and building web architectures. I am an everyday learner who keeps being updated with changing technology world. I dream everyday and have that bold detemination to fulfill my dream. I bring perfection in every projects i deal with.
 
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: 
-- :email: shankarlmc012@gmail.com        
-- :telephone_receiver: +977 9815153866
+- 👨‍💻 All of my projects are available at [https://github.com/shankarlmc?tab=repositories](https://github.com/shankarlmc?tab=repositories)
+- 📫 How to reach me: **www.shankarlmc012.com@gmail.com**
+- 💬 Ask me about **Front-End Development, Back-End Development, Technology, Bsc. CSIT**
 - 🏠 Location: Pokhara, Nepal
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarlmc&label=Profile%20views&color=0e75b6&style=flat" alt="shankarlmc"/></p>
 
