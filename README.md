@@ -2,12 +2,12 @@
 
 <h3 align="center"> Currently pursuing Bachelor's degree in Computer Science and Information Technology. I am passionate with creating, designing and building web architectures. I am an everyday learner who keeps being updated with changing technology world. I dream everyday and have that bold detemination to fulfill my dream. I bring perfection in every projects i deal with.</h3><br>
 
-
+- 🌱 I’m currently learning **React js**
 - 👨‍💻 All of my projects are available at [https://github.com/shankarlmc?tab=repositories](https://github.com/shankarlmc?tab=repositories)
 - 📫 How to reach me: **www.shankarlmc012.com@gmail.com**
 - 💬 Ask me about **Front-End Development, Back-End Development, Technology, Bsc. CSIT**
 - 🏠 Location: Pokhara, Nepal
-- ⚡ Fun fact **I have a Website : [Shankar Lamichhane](https://github.com/shankarlmc?tab=repositories)**
+- ⚡ Fun fact **I have a Website : [Shankar Lamichhane](https://shankarlamichhane.com.np/)**
 
 <br>
 
