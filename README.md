@@ -10,7 +10,13 @@ Currently pursuing Bachelor's degree in Computer Science and Information Technol
 - :telephone_receiver: +977 9815153866
 - 🏠 Location: Pokhara, Nepal
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarlmc&label=Profile%20views&color=0e75b6&style=flat" alt="shankarlmc"/></p>
 
+<p align="left"> 
+  <a href="https://twitter.com/sha_n_kar_lmc" target="blank">
+    <img src="https://img.shields.io/twitter/follow/sha_n_kar_lmc?logo=twitter&style=for-the-badge" alt="shankarlmc" />
+  </a>
+</p>
 
 <div class = "row">
   <div class = "col-md-6" width="100%">
