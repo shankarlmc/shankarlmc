@@ -15,7 +15,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/sha_n_kar_lmc" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sha_n_kar_lmc?logo=twitter&style=for-the-badge" alt="shankarlmc" />
+    <img src="https://img.shields.io/twitter/follow/shankarlmc?logo=twitter&style=for-the-badge" alt="shankarlmc" />
   </a>
 </p>
 
