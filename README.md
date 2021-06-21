@@ -14,7 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarlmc&label=Profile%20views&color=0e75b6&style=flat" alt="shankarlmc"/></p>
 
 <p align="left"> 
-  <a href="https://twitter.com/sha_n_kar_lmc" target="blank">
+  <a href="https://twitter.com/shankarlmc" target="blank">
     <img src="https://img.shields.io/twitter/follow/shankarlmc?logo=twitter&style=for-the-badge" alt="shankarlmc" />
   </a>
 </p>
@@ -61,7 +61,7 @@
 
 ### Social Medias and Other Accounts
 
-| [<img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="github logo" width="34">](https://github.com/shankarlmc) | <a href="https://www.instagram.com/sha_n_kar_lamichhane/"><img width="24" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg"></a> | [<img src="https://cdn.svgporn.com/logos/facebook.svg" alt="fb logo" width="24">](https://www.facebook.com/shankarlmc012) | [<img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="twitter logo" width="24">](https://twitter.com/sha_n_kar_lmc) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/14142800/shankar) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/shankarlmc) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Shankar_lamichhane)
+| [<img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="github logo" width="34">](https://github.com/shankarlmc) | <a href="https://www.instagram.com/shankar.lmc/"><img width="24" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg"></a> | [<img src="https://cdn.svgporn.com/logos/facebook.svg" alt="fb logo" width="24">](https://www.facebook.com/shankarlmc012) | [<img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="twitter logo" width="24">](https://twitter.com/shankarlmc) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/14142800/shankar) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/shankarlmc) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Shankar_lamichhane)
 
 
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
