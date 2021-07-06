@@ -21,7 +21,7 @@
 
 <div class = "row">
   <div class = "col-md-6" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=shankarlmc&show_icons=true" alt="shankarlmc" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=shankarlmc&show_icons=true&count_private=true" alt="shankarlmc" /> 
   </div>
   <div class = "col-md-6">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shankarlmc&" alt="shankarlmc" /></p>
