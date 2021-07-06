@@ -11,23 +11,25 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarlmc&label=Profile%20views&color=0e75b6&style=flat" alt="shankarlmc"/></p>
+[![Website](https://img.shields.io/website?label=shankarlamichhane.com.np&style=for-the-badge&url=https%3A%2F%2Fshankarlamichhane.com.np)](https://shankarlamichhane.com.np)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shankarlmc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshankarlmc&screen_name=Shankar)
 
-<p align="left"> 
-  <a href="https://twitter.com/shankarlmc" target="blank">
-    <img src="https://img.shields.io/twitter/follow/shankarlmc?logo=twitter&style=for-the-badge" alt="shankarlmc" />
-  </a>
-</p>
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shankar Spotify Playing" width="350" />](https://open.spotify.com/user/eefljpfp9u9wjf7fdyqjibheg)
+
+---
 
 <div class = "row">
   <div class = "col-md-6" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api?username=shankarlmc&show_icons=true&count_private=true" alt="shankarlmc" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=shankarlmc&show_icons=true&count_private=true&theme=radical" alt="shankarlmc" /> 
   </div>
   <div class = "col-md-6">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shankarlmc&" alt="shankarlmc" /></p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shankarlmc&theme=radical" alt="shankarlmc" /></p>
   </div>
 </div>
 
+---
 
 ### Programming Languages 🌐
 <table>
@@ -57,11 +59,11 @@
   </tbody>
 </table>
 
-
+---
 
 ### Social Medias and Other Accounts
 
 | [<img src="https://cdn.svgporn.com/logos/github-octocat.svg" alt="github logo" width="34">](https://github.com/shankarlmc) | <a href="https://www.instagram.com/shankar.lmc/"><img width="24" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg"></a> | [<img src="https://cdn.svgporn.com/logos/facebook.svg" alt="fb logo" width="24">](https://www.facebook.com/shankarlmc012) | [<img src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="twitter logo" width="24">](https://twitter.com/shankarlmc) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/14142800/shankar) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/shankarlmc) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Shankar_lamichhane)
 
-
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarlmc&theme=radical&langs_count=8&layout=compact)](https://github.com/shankarlmc)
