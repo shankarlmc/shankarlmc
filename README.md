@@ -3,8 +3,6 @@
 [![Github](https://custom-icon-badges.herokuapp.com/github/followers/shankarlmc?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/shankarlmc)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shankarlmc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fshankarlmc&screen_name=Shankar)
 
-![Contributions](https://shankarlmc.github.io/scripts/github-contribution-grid-snake.svg)
-
 ### 👨 My Github Activity
 
 ---
